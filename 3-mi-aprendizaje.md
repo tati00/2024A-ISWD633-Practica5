@@ -1,3 +1,2 @@
 # COMPLETAR  
-Comparando sus conocimientos antes de hacer la práctica con sus conocimientos después de hacer la tarea, explicar los principales aprendizajes logrados para beneficio de su formación profesional.  
-Si solucionó un problema presentado al realizar la práctica también se debe documentar.
+He comprendido como crear y ejecutar un docker compose. El docker compose ejecutado empleó todos los conceptos aprendidos anteriormente: imágenes, volúmenes, mapeo de puertos, healthcheck, políticas de reinicio, variables de entorno y sus dependencias. Debido a que todo ese conjunto es la definición de un docker compose, compose.yaml. Además y no menos importante seguir analizando más imágenes y sus popiedades: volúmenes, healthckeck, reinicio, etc.
